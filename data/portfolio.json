@@ -1,0 +1,29 @@
+{
+  "profile": {
+    "name": "Nikhil Shinde",
+    "title": "Computer Engineering Student",
+    "bio": "I am currently studying Computer Engineering at PCCoE Pune and building AI-powered education products through Classgrid.",
+    "email": "nikhil.shinde@classgrid.in",
+    "location": "Pune, India"
+  },
+  "projects": [
+    {
+      "id": "proj1",
+      "title": "Classgrid",
+      "category": "Web Development",
+      "thumbnail": "https://bumxgscngzjadyozdpce.supabase.co/storage/v1/object/public/classroom-files/logo/apple-touch-icon.png",
+      "description": "Classgrid combines AI-powered tools, real-time collaboration, and structured classroom management for students and educators.",
+      "projectUrl": "https://classgrid.in",
+      "technologies": [
+        "Students",
+        "Faculty",
+        "Institutions",
+        "AI-powered tools",
+        "Real-time collaboration"
+      ],
+      "featured": true,
+      "galleryImages": []
+    }
+  ],
+  "testimonials": []
+}

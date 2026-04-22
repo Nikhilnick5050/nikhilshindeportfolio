@@ -1,0 +1,20 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "routes": [
+    {
+      "src": "/admin/api\\.php",
+      "dest": "/api/admin"
+    },
+    {
+      "src": "/admin/chat\\.php",
+      "dest": "/api/chat"
+    },
+    {
+      "handle": "filesystem"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
