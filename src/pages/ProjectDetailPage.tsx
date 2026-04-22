@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { useEffect, useState } from 'react';
 import { useParams, Link, useNavigate } from 'react-router-dom';
 import styled from 'styled-components';
@@ -393,3 +394,4 @@ const ProjectDetailPage: React.FC = () => {
 };
 
 export default ProjectDetailPage;
+

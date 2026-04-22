@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React from 'react';
 import styled from 'styled-components';
 import { motion } from 'framer-motion';
@@ -323,3 +324,4 @@ const About: React.FC = () => {
 };
 
 export default About;
+

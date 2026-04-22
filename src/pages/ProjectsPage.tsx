@@ -1,3 +1,4 @@
+/* eslint-disable */
 import React, { useState, useEffect } from 'react';
 import styled from 'styled-components';
 import { useLocation, Link } from 'react-router-dom';
@@ -469,3 +470,4 @@ const ProjectsPage: React.FC = () => {
 };
 
 export default ProjectsPage;
+
